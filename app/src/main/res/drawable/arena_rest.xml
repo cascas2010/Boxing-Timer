@@ -1,0 +1,7 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item><shape><gradient android:angle="270" android:startColor="#020718" android:centerColor="#07334A" android:endColor="#061B2B" /></shape></item>
+    <item android:height="5dp" android:gravity="bottom" android:bottom="126dp"><shape><solid android:color="#54E0B3" /></shape></item>
+    <item android:height="5dp" android:gravity="bottom" android:bottom="112dp"><shape><solid android:color="#EEF7FF" /></shape></item>
+    <item android:height="5dp" android:gravity="bottom" android:bottom="98dp"><shape><solid android:color="#168EFF" /></shape></item>
+    <item android:height="90dp" android:gravity="bottom"><shape><gradient android:angle="270" android:startColor="#12655A" android:endColor="#061B2B" /><stroke android:width="3dp" android:color="#54E0B3" /></shape></item>
+</layer-list>
